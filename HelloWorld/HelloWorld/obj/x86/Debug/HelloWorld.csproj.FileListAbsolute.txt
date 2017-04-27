@@ -1,0 +1,4 @@
+C:\Users\Praphulla\Desktop\C-Sharp-.net\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Praphulla\Desktop\C-Sharp-.net\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Praphulla\Desktop\C-Sharp-.net\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Praphulla\Desktop\C-Sharp-.net\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
