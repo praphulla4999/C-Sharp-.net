@@ -1,0 +1,4 @@
+C:\Users\Praphulla\Desktop\C-Sharp-.net\Simple_class\Simple_class\bin\Debug\Simple_class.exe
+C:\Users\Praphulla\Desktop\C-Sharp-.net\Simple_class\Simple_class\bin\Debug\Simple_class.pdb
+C:\Users\Praphulla\Desktop\C-Sharp-.net\Simple_class\Simple_class\obj\x86\Debug\Simple_class.exe
+C:\Users\Praphulla\Desktop\C-Sharp-.net\Simple_class\Simple_class\obj\x86\Debug\Simple_class.pdb
